@@ -8,7 +8,7 @@
     "build-test": "tsc && mocha ./js/test/**/*.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anaroly Starodubtsev <tostar74@mail.ru>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^10.2.0",
